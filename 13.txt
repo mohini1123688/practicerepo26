@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 hello my name is tj
+
+>>>>>>> faf02cb321ecfa6fc3950a0c0888ab4e87a04c02
